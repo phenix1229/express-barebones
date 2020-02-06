@@ -1,0 +1,22 @@
+const user = [
+    {
+        "name":"Woody",
+        "email":"woody@ts.com"
+    },
+    {
+        "name":"Buzz",
+        "email":"buzz@ts.com"
+    },
+    {
+        "name":"Pig"
+        "email":"pig@ts.com"
+    }
+    {
+        "name":"Bo"
+        "email":"bo@ts.com"
+    }
+    {
+        "name":"Andy"
+        "email":"andy@ts.com"
+    }
+]
