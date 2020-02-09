@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "scripts": {
+    "dev": "nodemon index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -16,5 +17,11 @@
   "bugs": {
     "url": "https://github.com/phenix1229/express-barebones/issues"
   },
-  "homepage": "https://github.com/phenix1229/express-barebones#readme"
+  "homepage": "https://github.com/phenix1229/express-barebones#readme",
+  "dependencies": {
+    "express": "^4.17.1",
+    "morgan": "^1.9.1",
+    "nodemon": "^2.0.2",
+    "uuid": "^3.4.0"
+  }
 }
